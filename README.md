@@ -1,3 +1,5 @@
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8602/badge)](https://www.bestpractices.dev/projects/8602)
+
 # Tetris
 
 This Programming is a beginning of a tetris game with basic features.
@@ -17,6 +19,3 @@ Kylen also know to be wary of SQL injection and missing authentication.
 No need for crypographic tools.
 
 only codded in c++.
-
-
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8586/badge)](https://www.bestpractices.dev/projects/8586)
