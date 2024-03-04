@@ -18,4 +18,4 @@ Kylen also know to be wary of SQL injection and missing authentication.
 
 No need for crypographic tools.
 
-only codded in c++.
+only coded in c++.
