@@ -1,5 +1,7 @@
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8602/badge)](https://www.bestpractices.dev/projects/8602)
 
+https://securityscorecards.dev/viewer/?uri=github.com/KylenB/Tetris.
+
 # Tetris
 
 This Programming is a beginning of a tetris game with basic features.
